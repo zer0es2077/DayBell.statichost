@@ -1,0 +1,6 @@
+{
+  "name": "Librus Pack",
+  "description": "ToS-safe school companion with screenshot and paste import from Librus, a context-aware smart calendar for homework and commute errands, a moment-by-moment daily checklist, message summaries, daily packing lists, and 3+ day test alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
